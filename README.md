@@ -1,8 +1,14 @@
 Social Media App 🌐
 A modern, responsive social media application with dynamic theme switching capabilities. Built using HTML, CSS, and JavaScript.
 🌟 Features
+accessibility
+Theme Toggle-   take system color by default but can change using toggle
+https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+three point toggle -https://codepen.io/renddrew/pen/bRomab
+updating css variables using  javascript
+https://css-tricks.com/updating-a-css-variable-with-javascript/
+https://webaim.org/techniques/css/invisiblecontent/-screen  only reader = texts that are only visible to the  screen but are not visible to the user or someone  browsing the page
 
-Theme Toggle
 
 Seamless dark/light mode switching
 User preference persistence using localStorage
